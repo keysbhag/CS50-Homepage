@@ -1,0 +1,54 @@
+.titleHeader {
+    text-align: center;
+    background-color: #444444;
+    color: white;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+
+}
+
+.borderLi {
+    padding-left: 400px;
+
+}
+
+.titleText {
+    font: serif;
+    font-size: 3rem;
+}
+
+h2 {
+    font: Tahoma;
+    font-size: 22pt;
+    text-decoration: underline;
+    font-weight: 900;
+
+}
+
+.center{
+    text-align:center;
+}
+
+.centerPic {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.aboutWriting{
+    font: Georgia
+    font-size: 18pt;
+    font-weight: 500;
+
+}
+
+#buttonSpace{
+    padding-top: 50px;
+}
+
+.picPadding{
+    padding-left: 300px;
+}
+
+body{
+    background-color: #cccccc;
+}
